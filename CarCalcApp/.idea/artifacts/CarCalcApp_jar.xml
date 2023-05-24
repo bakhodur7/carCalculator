@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarCalcApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarCalcApp_jar</output-path>
+    <root id="archive" name="CarCalcApp.jar">
+      <element id="module-output" name="CarCalcApp" />
+    </root>
+  </artifact>
+</component>
